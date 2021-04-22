@@ -4,7 +4,7 @@
 
 After spending years of learning and a few recent years in engineering I am extremely motivated to constantly develop my skills and grow professionally. I have always been someone who loves to meet people and learn new things. My hunger for knowledge and determination to turn information into action has contributed to my success
 
-Skills:  Arduino / Linux / Python / PC Troubleshooting
+Skills:  Linux / Arduino / Python / PC Troubleshooting
 
 - 🔭 I’m currently working on My pipelined projects 
 - 🌱 I’m currently learning Embedded C 
