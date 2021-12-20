@@ -7,7 +7,7 @@ After spending years of learning and a few recent years in engineering I am extr
 Skills:  Linux / Arduino / Python / PC Troubleshooting
 
 - 🔭 I’m currently working on My pipelined projects 
-- 🌱 I’m currently learning Embedded C 
+- 🌱 I’m currently learning sql 
 - 💬 Ask me about Anything related to Tech and PC Troubleshooting 
 - 📫 How to reach me: visit shashankbharadwaj.in 
 - ⚡ Fun fact: I Don't Ever Give Up 
