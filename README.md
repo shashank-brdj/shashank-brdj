@@ -1,15 +1,15 @@
-### Hi there 👋, Welcome To My Profile!
-#### System Administrator and a Tech Expert
+### Hey there 👋, Welcome To My Profile!
+#### DevOps Engineer and a Tech Expert
 ![System Administrator and a Tech Expert](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0a23d10b-941d-4873-9487-8ffcb28390a4%2Fbanner.png?table=block&id=938ce034-26af-416e-be7a-3ad4a498f96e&width=3840&userId=f447d21c-1a7f-43ff-995a-c3eecfd2aaa6&cache=v2)
 
-After spending years of learning and a few recent years in engineering I am extremely motivated to constantly develop my skills and grow professionally. I have always been someone who loves to meet people and learn new things. My hunger for knowledge and determination to turn information into action has contributed to my success
+After spending years of learning and a few recent years at work, I am extremely motivated to constantly develop my skills and grow professionally. I have always been someone who loves to meet people and learn new things. My hunger for knowledge and determination to turn information into action has contributed to my success
 
-Skills:  Linux / Arduino / Python / PC Troubleshooting
+Skills:  DevOps CI-CD / Azure / AWS / Linux / Arduino / Server & PC Troubleshooting
 
 - 🔭 I’m currently working on My pipelined projects 
-- 🌱 I’m currently learning sql 
-- 💬 Ask me about Anything related to Tech and PC Troubleshooting 
-- 📫 How to reach me: visit shashankbharadwaj.in 
+- 🌱 I’m currently learning Kubernetes 
+- 💬 Ask me about Anything related to Tech Stack and Hardware Troubleshooting 
+- 📫 How to reach me: visit shashankbharadwaj.in
 - ⚡ Fun fact: I Don't Ever Give Up 
 
 
